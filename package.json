@@ -1,7 +1,7 @@
 {
   "name": "proyecto-final",
   "version": "0.1.0",
-  "homepage": "https://MauroPalgi.github.io/proyecto-final",
+  "homepage": "https://MauroPalgi.github.io/proyectofinal",
   "private": true,
   "scripts": {
     "dev": "next dev",
